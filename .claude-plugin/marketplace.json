@@ -1,0 +1,17 @@
+{
+  "name": "yupana",
+  "owner": {
+    "name": "frag.hugo Informationssicherheit GmbH",
+    "url": "https://www.yupana.de"
+  },
+  "metadata": {
+    "description": "Yupana für Claude: BWA in Klartext, Branchenvergleich und Prüfwerkzeuge."
+  },
+  "plugins": [
+    {
+      "name": "yupana",
+      "source": "./",
+      "description": "BWA in Klartext, Branchenvergleich und Prüfwerkzeuge für USt-IdNr., IBAN und E-Rechnung."
+    }
+  ]
+}

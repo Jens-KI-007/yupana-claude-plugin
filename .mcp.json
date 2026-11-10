@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "yupana": {
+      "type": "http",
+      "url": "https://mcp.yupana.de/mcp"
+    },
+    "yupana-konto": {
+      "type": "http",
+      "url": "https://mcp.yupana.de/mcp/konto"
+    }
+  }
+}

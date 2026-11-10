@@ -1,0 +1,24 @@
+{
+  "name": "yupana",
+  "version": "0.1.0",
+  "description": "Erklärt eine deutsche BWA (DATEV-Monatsauswertung) in Klartext, vergleicht sie mit Branchenwerten der Bundesbank und prüft USt-IdNr., IBAN und E-Rechnungen — über die Werkzeuge von mcp.yupana.de.",
+  "author": {
+    "name": "frag.hugo Informationssicherheit GmbH",
+    "url": "https://www.yupana.de"
+  },
+  "homepage": "https://www.yupana.de/bwa-erklaerer",
+  "repository": "https://github.com/Jens-KI-007/yupana-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bwa",
+    "datev",
+    "controlling",
+    "branchenvergleich",
+    "ust-id",
+    "iban",
+    "xrechnung",
+    "zugferd"
+  ],
+  "privacyPolicyUrl": "https://www.yupana.de/datenschutz",
+  "icon": ".claude-plugin/icon.png"
+}
