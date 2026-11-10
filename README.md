@@ -23,6 +23,9 @@ In Claude Code:
 In claude.ai verbinden Sie den Server unter Einstellungen → Konnektoren mit der Adresse `https://mcp.yupana.de/mcp`
 (und für Ihre eigenen Zahlen `https://mcp.yupana.de/mcp/konto`).
 
+Schritt für Schritt mit Bildern für Claude, Microsoft 365 Copilot und ChatGPT:
+https://www.yupana.de/docs/ki-assistent
+
 ## Daten
 
 Die Werkzeuge ohne Anmeldung verarbeiten Ihre Eingaben nur für die jeweilige Antwort. Die Branchenwerte stammen aus der Fachreihe
